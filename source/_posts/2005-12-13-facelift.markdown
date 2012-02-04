@@ -1,0 +1,10 @@
+---
+layout: post
+title: Facelift
+wordpress_id: 28
+wordpress_url: http://wp.codemo.de/?p=28
+date: 2005-12-13 00:13:00.000000000 +01:00
+---
+Da ich schon nicht richtig zum bloggen komme gibt&#8217;s jetzt wenigstens was für&#8217;s Auge.
+
+Vorübergehend ist als Theme [Typomate](http://www.typogarden.com/articles/2005/11/18/typomate-theme) aktiviert, das dürfte erstmal Abwechslung genug sein. Und ein Update auf den aktuellen Trunk von Typo gab&#8217;s auch. _Vorsicht, scharfe Kanten._

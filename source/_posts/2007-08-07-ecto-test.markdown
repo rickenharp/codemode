@@ -1,0 +1,8 @@
+---
+layout: post
+title: Ecto-Test
+wordpress_id: 56
+wordpress_url: http://wp.codemo.de/?p=56
+date: 2007-08-07 14:26:25.000000000 +02:00
+---
+Da MarsEdit mit der aktuellen Typo-Version nicht richtig zusammenspielen will, wird jetzt mal ecto getestet.

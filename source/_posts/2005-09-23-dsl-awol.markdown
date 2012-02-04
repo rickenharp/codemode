@@ -1,0 +1,12 @@
+---
+layout: post
+title: DSL AWOL
+wordpress_id: 6
+wordpress_url: http://wp.codemo.de/?p=6
+date: 2005-09-23 10:31:59.000000000 +02:00
+---
+So ein virtuelles Büro ist ja an sich was feines.
+
+Blöd nur, wenn man morgens den Computer einschaltet und die DSL-Leitung sich entschieden hat, erstmal ne Pause einzulegen.
+
+Leider gibt&#8217;s noch kein offline-Internet-Backup für solche Fälle. Das ist ne echte Marktlücke.

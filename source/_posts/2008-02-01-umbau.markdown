@@ -1,0 +1,12 @@
+---
+layout: post
+title: Umbau
+wordpress_id: 62
+wordpress_url: http://wp.codemo.de/?p=62
+date: 2008-02-01 18:23:29.000000000 +01:00
+---
+Ich hab mich heute dazu entschlossen, hier mal etwas umzubauen. Bisher lief dieses Blog auf Typo, mit lighttpd und fastcgi. Nicht wirklich eine schöne Kombination, aber bisher war ich zu faul, da dran rumzuschrauben. Da ich sowieso kaum noch gebloggt habe, war es ja eigentlich egal.
+
+Nachdem ich mir aber mal die neue Version von MarsEsdit angeschaut hab, die ich als registrierter Benutzer von 1.x sogar recht günstig updaten konnte, hab ich mir vorgenommen, das mit dem bloggen mal wieder etwas öfter in Angriff zu nehmen.
+
+Da [auf der Arbeit](http://www.media-ventures.de "Media Ventures: We invest in people") schon etwas Wordpress-Knowhow vorhanden ist, hab ich das Blog dann direkt mal auf WP migriert, notfalls kann man ja die Kollegen mit Fragen <del>nerven</del><ins>erfreuen</ins>.

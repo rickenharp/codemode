@@ -1,0 +1,8 @@
+---
+layout: post
+title: Umzug
+wordpress_id: 42
+wordpress_url: http://wp.codemo.de/?p=42
+date: 2006-07-18 15:00:49.000000000 +02:00
+---
+Dieses Blog ist von einem Apache-FCGI-Server auf einen lighttpd-FCGI-Server umgezogen. Wenn man diesen Artikel sehen kann, dann ist die neue Adresse auch überall im DNS aktualisert :-)

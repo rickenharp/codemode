@@ -1,0 +1,30 @@
+---
+layout: post
+title: Tassimo
+wordpress_id: 21
+wordpress_url: http://wp.codemo.de/?p=21
+date: 2005-11-08 21:18:22.000000000 +01:00
+---
+Als Technik-Freak war ich von der Werbebroschüre der neuen [Tassimo](http://www.tassimo.de)-Kaffeemaschine direkt schwer begeistert.
+Das Ding hat einen _Barcodeleser_, mit dem automatisch die richtige Temperatur, Wassermenge und was nicht sonst noch alles passend für das gewünschte Getränk ausgewählt werden. Und mehr High-Tech ist ja immer besser ;)
+
+Da die Metro letzte Woche ne Tassimo-Aktion hatte, hab ich da direkt mal zugeschlagen, und bin wirklich zufrieden mit dem Gerät. Im Gegensatz zur [Senseo](http://www.senseo.de) ist das Kaffeepulver luftdicht verpackt, und somit frischer, wenn es zubereitet wird. Und wenn man Filterkaffee haben möchte, dann bekommt man den auch. Ohne Schaum, einfach nur ordentlicher Kaffee.
+
+Wenn ich was mit Schaum haben will, dann mach ich einen Cappucino, der sich mit dem Gerät ebenfalls schnell und einfach zubereiten läßt.
+
+Aber es gibt auch ein paar Nachteile:
+
+*  Bisher gibt noch keinen entkoffeinierten Kaffee. Da der Kaffee aber von Jacobs kommt, hoffe ich zumindest auf Krönung Balance T-Discs.
+
+*  Es kann nur eine Tasse zubereitet werden. Beim Senseo hatte man immerhin die Möglichkeit, 2 Tassen gleichzeitig zuzubereiten.
+
+*  Wenn zu wenig Wasser im Tank ist, kann es vorkommen, daß der Brühvorgang mittendrin unterbrochen wird. Läßt sich zwar ganz einfach durch Nachfüllen beheben, ist aber örgerlich.
+
+*  Kakao-T-Discs kommen erst Anfang 2006 in den Handel.
+
+*  Mehr Müll. Die T-Discs sind aus Plastik, was weniger umweltfreundlich ist als die Senseo-Pads
+
+
+Trotz all dieser Nachteile kann ich die Maschine nur empfehlen. Beim direkten Vergleich Krönung-T-Disc gegen Krönung-Pad gewinnt die T-Disc mit deutlichem Vorsprung.
+
+<small>Und die Tassimo hat mehr und buntere Blinkenlights.</small>

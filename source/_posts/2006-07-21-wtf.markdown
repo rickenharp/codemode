@@ -1,0 +1,29 @@
+---
+layout: post
+title: WTF
+wordpress_id: 43
+wordpress_url: http://wp.codemo.de/?p=43
+date: 2006-07-21 10:14:18.000000000 +02:00
+---
+Wer ist denn für die Anforderungen von Stellenanzeigen zuständig? Da steht ja manchmal so ein Mumpitz drin. Gerade eben wieder:
+
+Gesucht wird jemand mit sehr guten Kenntnissen in:
+
+
+* Php
+* MySQL
+* Java
+* Javascript
+* C/C++
+* XML
+* HTML
+* Servlets
+
+
+Entweder ich hab sehr gute Kenntnisse in PHP und MySQL, oder in Java. Vielleicht auch in beiden.
+
+Aber man kann nicht gleichzeitig Allrounder und Spezialist sein.
+
+In die gleiche Richtung gehen diese Anzeigen, die designende PHP-Programmierer suchen. Neben PHP soll man noch Flash und Photoshop und Hassenichgesehen können.
+
+Der PHP-Code von Designern sieht dann meistens so aus wie meine Designversuche: nicht wirklich gut&#8230;
