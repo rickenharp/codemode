@@ -1,3 +1,6 @@
+# redirect old feed url to new feedburner url
+Redirect 301 /feed/ http://feeds.feedburner.com/codemo_de
+
 #### CACHING ####
 ExpiresActive On
 ExpiresDefault A3600
